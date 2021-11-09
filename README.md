@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi! I'm Bernard Dushimimana. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👋
+
+[![GitHub vermakhushboo](https://img.shields.io/github/followers/bdushimi?label=follow&style=social)](https://github.com/bdushimi)
+[![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernard-dushimimana/)](https://www.linkedin.com/in/bernard-dushimimana/)
+[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/bdushimi?style=social)](https://twitter.com/khushbooverma_)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=bdushimi&left_color=gray&right_color=blue)
+  
+I develop software, build technical communities, create content and love meeting new people!
 
 
 <p align="center">
