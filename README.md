@@ -5,7 +5,7 @@
 [![Twitter: Dushimimana Bernard](https://img.shields.io/twitter/follow/bdushimi?style=social)](https://twitter.com/bdushimi)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=bdushimi&left_color=gray&right_color=blue)
   
-I develop software, build technical communities, tweet about web development tips & resources, tech leadership
+I develop software, build devs communities, tweet about web development tips & resources, tech leadership
 
 ### 🧐 More About Me:
 
