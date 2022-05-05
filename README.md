@@ -1,4 +1,4 @@
-### Hi! I'm Bernard Dushimimana. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi! I'm Bernard Dushimimana. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> and I am gald your are visiting my profile now!
 
 [![GitHub bdushimi](https://img.shields.io/github/followers/bdushimi?label=follow&style=social)](https://github.com/bdushimi)
 [![Linkedin: Dushimimana Bernard](https://img.shields.io/badge/-Bernard%20Dushimimana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernard-dushimimana/)](https://www.linkedin.com/in/bernard-dushimimana/)
