@@ -10,7 +10,7 @@ I develop software, build devs communities, tweet about web development tips & r
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **ATLP Graduates Profile CMS**
-- 🌱 &nbsp; I’m currently learning NextJS; 
+- 🌱 &nbsp; I’m currently learning Flutter; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Reac out to me here [@bdushimi](https://twitter.com/bdushimi/);
 - 🎯 &nbsp; Fun fact : I love tiny houses;
